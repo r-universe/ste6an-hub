@@ -1,5 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "PlayerRatings"]
+	path = PlayerRatings
+	url = https://github.com/cran/PlayerRatings
+[submodule "TideHarmonics"]
+	path = TideHarmonics
+	url = https://github.com/cran/TideHarmonics
+[submodule "cubing"]
+	path = cubing
+	url = https://github.com/cran/cubing
+[submodule "evd"]
+	path = evd
+	url = https://github.com/cran/evd
+[submodule "evdbayes"]
+	path = evdbayes
+	url = https://github.com/cran/evdbayes
